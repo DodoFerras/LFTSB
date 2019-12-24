@@ -1,0 +1,18 @@
+{
+  "serverHost": "ip do teu server",
+  "queryUsername": "usuario da query",
+  "queryPassword": "senha da query",
+  "queryPort": 10011,
+  "bannerFile": "banner.png",
+  "wellcomeMessage": "Mensagem de boas vindas",
+  "wellcomeXPosition": 800,
+  "wellcomeYPosition": 200,
+  "wellComeTextSize": 88,
+  "wellComeTextColor": "#cc0099",
+  "onlineClientsXPosition": 100,
+  "onlineClientsYPosition": 100,
+  "onlineClientsTextSize": 80,
+  "onlineClientsTextColor": "#00ff99",
+  "falseClientName": "Coloque apenas: excluded para desativar função",
+  "localPort": 5050
+}
